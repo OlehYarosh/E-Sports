@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/E-Sports/static/css/main.813fcc34.css",
+    "main.js": "/E-Sports/static/js/main.1e3607f5.js",
+    "static/media/start-page.png": "/E-Sports/static/media/start-page.14855cafd390c9800380.png",
+    "static/media/chair-about.png": "/E-Sports/static/media/chair-about.b3cd0f703b092b856847.png",
+    "static/media/logo.svg": "/E-Sports/static/media/logo.23a0ff41294d84ff83ce34a0afb509ae.svg",
+    "static/media/basket.svg": "/E-Sports/static/media/basket.bfeade0f97216ad02e70c6dd9af49d4a.svg",
+    "index.html": "/E-Sports/index.html",
+    "static/media/search.svg": "/E-Sports/static/media/search.65aecc82ad2f9744f8ccc781acfecb5d.svg",
+    "main.813fcc34.css.map": "/E-Sports/static/css/main.813fcc34.css.map",
+    "main.1e3607f5.js.map": "/E-Sports/static/js/main.1e3607f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.813fcc34.css",
+    "static/js/main.1e3607f5.js"
+  ]
+}
