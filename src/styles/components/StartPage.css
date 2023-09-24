@@ -1,0 +1,48 @@
+.start-page {
+    background-image: url("../../assets/start-page.png");
+    height: 880px;
+}
+
+.start-page-content {
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 75px;
+    margin-top: 200px;
+}
+
+.container-h {
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 140px;
+    letter-spacing: 0px;
+    margin-bottom: -20px;
+}
+
+.container-p {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0.005em;
+    margin-bottom: 60px;
+}
+
+button {
+    width: 240px;
+    height: 58px;
+    padding: 16px 48px;
+    border-radius: 8px;
+    gap: 10px;
+    background: #9A0000;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.s005em;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+    background-color: #7A0000;
+}
