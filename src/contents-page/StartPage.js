@@ -12,7 +12,7 @@ const StartPage = () => {
                     <p className="container-p">Відчуйте ергономіку та комфорт з кріслами E-sports</p>
                 </div>
 
-                <button>Замовити зараз</button>
+                <button className="start-page-button">Замовити зараз</button>
             </section>
         </div>
     )

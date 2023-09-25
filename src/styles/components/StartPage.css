@@ -27,7 +27,7 @@
     margin-bottom: 60px;
 }
 
-button {
+.start-page-button {
     width: 240px;
     height: 58px;
     padding: 16px 48px;
@@ -43,6 +43,6 @@ button {
     transition: background-color 0.3s ease-in-out;
 }
 
-button:hover {
+.start-page-button:hover {
     background-color: #7A0000;
 }
