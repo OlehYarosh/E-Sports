@@ -8,7 +8,7 @@ import product4 from '../assets/product4.svg';
 
 const Products = () => {
     return (
-        <div className="products">
+        <div className="products" id="products">
             <h2 className="products-h2">Товари</h2>
             <div className="products-list">
                 <ProdCard 
