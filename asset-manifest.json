@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/E-Sports/static/css/main.f67e0dce.css",
-    "main.js": "/E-Sports/static/js/main.c31cb670.js",
+    "main.css": "/E-Sports/static/css/main.9081be1e.css",
+    "main.js": "/E-Sports/static/js/main.160b11ae.js",
     "static/media/product4.svg": "/E-Sports/static/media/product4.768e4c41d1fa92eddcd5ea36935ad1d0.svg",
     "static/media/order-img.png": "/E-Sports/static/media/order-img.d6c8bfa2556754fa2fa3.png",
     "static/media/product1.svg": "/E-Sports/static/media/product1.afbeed14b0a54712545587df5e449df3.svg",
@@ -10,15 +10,20 @@
     "static/media/start-page.png": "/E-Sports/static/media/start-page.14855cafd390c9800380.png",
     "static/media/chair-about.png": "/E-Sports/static/media/chair-about.b3cd0f703b092b856847.png",
     "static/media/adv-chair.png": "/E-Sports/static/media/adv-chair.5e9e582dfc70286af792.png",
+    "static/media/gallery1.png": "/E-Sports/static/media/gallery1.687727aa6414a8b31b0b.png",
+    "static/media/gallery3.png": "/E-Sports/static/media/gallery3.63de26ae389b4121fcd4.png",
+    "static/media/gallery2.png": "/E-Sports/static/media/gallery2.aeb97a1e185bf5f2ab42.png",
     "static/media/logo.svg": "/E-Sports/static/media/logo.23a0ff41294d84ff83ce34a0afb509ae.svg",
     "static/media/basket.svg": "/E-Sports/static/media/basket.bfeade0f97216ad02e70c6dd9af49d4a.svg",
     "index.html": "/E-Sports/index.html",
+    "static/media/arrow-right.svg": "/E-Sports/static/media/arrow-right.a14ac8a910e0e26fc001df649b64a996.svg",
+    "static/media/arrow-left.svg": "/E-Sports/static/media/arrow-left.315c1a7e490582b298a8fce7d76ec675.svg",
     "static/media/search.svg": "/E-Sports/static/media/search.65aecc82ad2f9744f8ccc781acfecb5d.svg",
-    "main.f67e0dce.css.map": "/E-Sports/static/css/main.f67e0dce.css.map",
-    "main.c31cb670.js.map": "/E-Sports/static/js/main.c31cb670.js.map"
+    "main.9081be1e.css.map": "/E-Sports/static/css/main.9081be1e.css.map",
+    "main.160b11ae.js.map": "/E-Sports/static/js/main.160b11ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.f67e0dce.css",
-    "static/js/main.c31cb670.js"
+    "static/css/main.9081be1e.css",
+    "static/js/main.160b11ae.js"
   ]
 }
