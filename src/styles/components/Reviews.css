@@ -1,0 +1,49 @@
+.reviews {
+    margin-top: 100px;
+}
+
+.reviews-h2 {
+    font-size: 70px;
+    line-height: 70px;
+    text-align: center;
+    margin: 0;
+}
+
+.reviews-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 250px 100px; 
+}
+
+.reviews-card {
+    width: 250px;
+    height: 230px;
+    padding: 20px;
+    border-radius: 12px;
+    gap: 20px;
+    background: #202020;
+}
+
+.reviews-card-content {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.reviews-card-content h4 {
+    width: auto;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: left;
+    margin: 0;
+    padding: 12px;
+}
+
+.reviews-card-comments {
+    width: 100%;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    text-align: left;
+}
