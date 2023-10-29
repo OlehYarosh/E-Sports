@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/E-Sports/static/css/main.9081be1e.css",
-    "main.js": "/E-Sports/static/js/main.160b11ae.js",
+    "main.css": "/E-Sports/static/css/main.ead4c985.css",
+    "main.js": "/E-Sports/static/js/main.e556bf58.js",
     "static/media/product4.svg": "/E-Sports/static/media/product4.768e4c41d1fa92eddcd5ea36935ad1d0.svg",
     "static/media/order-img.png": "/E-Sports/static/media/order-img.d6c8bfa2556754fa2fa3.png",
     "static/media/product1.svg": "/E-Sports/static/media/product1.afbeed14b0a54712545587df5e449df3.svg",
@@ -13,17 +13,20 @@
     "static/media/gallery1.png": "/E-Sports/static/media/gallery1.687727aa6414a8b31b0b.png",
     "static/media/gallery3.png": "/E-Sports/static/media/gallery3.63de26ae389b4121fcd4.png",
     "static/media/gallery2.png": "/E-Sports/static/media/gallery2.aeb97a1e185bf5f2ab42.png",
+    "static/media/user5.png": "/E-Sports/static/media/user5.eb38ac4357f9cca5d99e.png",
     "static/media/logo.svg": "/E-Sports/static/media/logo.23a0ff41294d84ff83ce34a0afb509ae.svg",
+    "static/media/user6.png": "/E-Sports/static/media/user6.0fcfdd99a0ba1398b64a.png",
+    "static/media/user2.png": "/E-Sports/static/media/user2.a5fb72ef2ade442a3c9d.png",
     "static/media/basket.svg": "/E-Sports/static/media/basket.bfeade0f97216ad02e70c6dd9af49d4a.svg",
     "index.html": "/E-Sports/index.html",
-    "static/media/arrow-right.svg": "/E-Sports/static/media/arrow-right.a14ac8a910e0e26fc001df649b64a996.svg",
-    "static/media/arrow-left.svg": "/E-Sports/static/media/arrow-left.315c1a7e490582b298a8fce7d76ec675.svg",
     "static/media/search.svg": "/E-Sports/static/media/search.65aecc82ad2f9744f8ccc781acfecb5d.svg",
-    "main.9081be1e.css.map": "/E-Sports/static/css/main.9081be1e.css.map",
-    "main.160b11ae.js.map": "/E-Sports/static/js/main.160b11ae.js.map"
+    "static/media/arrow-right.svg": "/E-Sports/static/media/arrow-right.2d9e037d76fb1b767bb3ff7a0e256efb.svg",
+    "static/media/arrow-left.svg": "/E-Sports/static/media/arrow-left.89879f66475909b0035d1385d0bcd6e2.svg",
+    "main.ead4c985.css.map": "/E-Sports/static/css/main.ead4c985.css.map",
+    "main.e556bf58.js.map": "/E-Sports/static/js/main.e556bf58.js.map"
   },
   "entrypoints": [
-    "static/css/main.9081be1e.css",
-    "static/js/main.160b11ae.js"
+    "static/css/main.ead4c985.css",
+    "static/js/main.e556bf58.js"
   ]
 }
