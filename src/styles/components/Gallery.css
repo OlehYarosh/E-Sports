@@ -46,6 +46,12 @@
     justify-content: center;
     cursor: pointer;
     border: none;
+    transition: background-color 2s ease;
+}
+
+.prev-button:hover,
+.next-button:hover {
+    background-color: #9f9e9e;
 }
 
 .next-button {
@@ -55,4 +61,9 @@
 
 .prev-button {
     margin-right: 30px;
+}
+
+.prev:hover,
+.next:hover {
+    background-color: #9f9e9e;
 }

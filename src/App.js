@@ -7,6 +7,7 @@ import Video from './contents-page/Video';
 import Order from './contents-page/Order';
 import Gallery from './contents-page/Gallery';
 import Reviews from './contents-page/Reviews';
+import Footer from './contents-page/Footer';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <Order />
       <Gallery />
       <Reviews />
+      <Footer />
     </div>
   );
 }

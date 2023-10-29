@@ -13,7 +13,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 50px 250px 100px; 
+    margin: 50px 100px 100px; 
 }
 
 .reviews-card {
@@ -31,6 +31,10 @@
     align-items: center;
 }
 
+.reviews-card-content img {
+    width: 52px;
+}
+
 .reviews-card-content h4 {
     width: auto;
     font-size: 24px;
@@ -46,4 +50,25 @@
     line-height: 24px;
     letter-spacing: 0.5px;
     text-align: left;
+}
+
+.prev,
+.next {
+    width: 86px;
+    height: 86px;
+    padding: 40px 40px;
+    border-radius: 50%;
+    gap: 10px;
+    background: #D9D9D9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border: none;
+    transition: background-color 2s ease;
+}
+
+.prev:hover,
+.next:hover {
+    background-color: #9f9e9e;
 }
