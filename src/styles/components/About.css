@@ -55,4 +55,9 @@
     background: #7D7B7B;
     box-shadow: 4px 4px 5px 20px #9A000040;
     margin-left: 40px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.img-about:hover {
+    transform: scale(1.1);
 }

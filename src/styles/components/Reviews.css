@@ -23,6 +23,11 @@
     border-radius: 12px;
     gap: 20px;
     background: #202020;
+    transition: transform 0.6s ease-in-out;
+}
+
+.reviews-card:hover {
+    transform: scale(1.1);
 }
 
 .reviews-card-content {
