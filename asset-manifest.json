@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/E-Sports/static/css/main.ead4c985.css",
-    "main.js": "/E-Sports/static/js/main.e556bf58.js",
+    "main.css": "/E-Sports/static/css/main.a9834772.css",
+    "main.js": "/E-Sports/static/js/main.e99f7066.js",
     "static/media/product4.svg": "/E-Sports/static/media/product4.768e4c41d1fa92eddcd5ea36935ad1d0.svg",
     "static/media/order-img.png": "/E-Sports/static/media/order-img.d6c8bfa2556754fa2fa3.png",
     "static/media/product1.svg": "/E-Sports/static/media/product1.afbeed14b0a54712545587df5e449df3.svg",
@@ -22,11 +22,11 @@
     "static/media/search.svg": "/E-Sports/static/media/search.65aecc82ad2f9744f8ccc781acfecb5d.svg",
     "static/media/arrow-right.svg": "/E-Sports/static/media/arrow-right.2d9e037d76fb1b767bb3ff7a0e256efb.svg",
     "static/media/arrow-left.svg": "/E-Sports/static/media/arrow-left.89879f66475909b0035d1385d0bcd6e2.svg",
-    "main.ead4c985.css.map": "/E-Sports/static/css/main.ead4c985.css.map",
-    "main.e556bf58.js.map": "/E-Sports/static/js/main.e556bf58.js.map"
+    "main.a9834772.css.map": "/E-Sports/static/css/main.a9834772.css.map",
+    "main.e99f7066.js.map": "/E-Sports/static/js/main.e99f7066.js.map"
   },
   "entrypoints": [
-    "static/css/main.ead4c985.css",
-    "static/js/main.e556bf58.js"
+    "static/css/main.a9834772.css",
+    "static/js/main.e99f7066.js"
   ]
 }
